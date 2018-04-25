@@ -21,3 +21,11 @@ function inc(n) {
 function dec(n) {
   return n -= 1
 }
+
+fucntion makeInt (n) {
+  return parseInt (n, 10)
+}
+
+function makeInt (n) {
+  return base (n, 10)
+}
