@@ -14,6 +14,10 @@ function multiply(a, b) {
   return a * b
 }
 
-function increment(n) {
+function inc(n) {
   return n += 1
+}
+
+function dec(n) {
+  return n -= 1
 }
